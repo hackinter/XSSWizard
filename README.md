@@ -55,7 +55,7 @@ Before use, remember to replace the Blind XSS payload with your own in the `xss_
 Run the script and follow the prompts to perform reconnaissance on a domain:
 
 ```bash
-./xss_automation.sh
+./xsswizard.sh
 ```
 
 - Enter the domain name when prompted. 🌐
