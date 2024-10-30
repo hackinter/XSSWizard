@@ -97,3 +97,12 @@ Contributions are welcome! Please submit a pull request or open an issue to sugg
 
 - Inspired by various open-source reconnaissance tools and methodologies. 💡
 - Special thanks to the authors of the tools used in this script. 🙏
+
+## Contact Me
+
+For inquiries, feel free to reach out via:
+
+- **Email**: [![HACKINTER](https://img.shields.io/badge/HACKINTER-MAIL-red.svg)](mailto:ceh.ec.counselor147@gmail.com) 📧
+- **Telegram**: [Chat with HackInter](https://t.me/chat_with_hackinter_bot) 📱
+- **X (Twitter)**: [@_anonix_z](https://x.com/_anonix_z) 🐦
+
