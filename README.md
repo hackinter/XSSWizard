@@ -103,7 +103,7 @@ Contributions are welcome! Please submit a pull request or open an issue to sugg
 For inquiries, feel free to reach out via:
 
 [![HACKINTER](https://img.shields.io/badge/HACKINTER-MAIL-red.svg)](mailto:ceh.ec.counselor147@gmail.com) 
-✕[![TELEGRAM](https://img.shields.io/badge/HACKINTER-T.ME-blue.svg)](https://t.me/chat_with_hackinter_bot)
-✕[![TWITTER](https://img.shields.io/badge/HACKINTER-TWITTER-gry.svg)](https://x.com/_anonix_z)
+[![TELEGRAM](https://img.shields.io/badge/HACKINTER-T.ME-blue.svg)](https://t.me/chat_with_hackinter_bot)
+[![TWITTER](https://img.shields.io/badge/HACKINTER-TWITTER-gry.svg)](https://x.com/_anonix_z)
 
 
